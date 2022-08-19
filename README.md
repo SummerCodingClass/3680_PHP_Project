@@ -2,7 +2,7 @@
 Pocket List: the Server-end version of List++
 
 An instance of this project is hosted here:
-https://cs.csub.edu/~jkuo/3680/project3/php/operations/welcome/index.php
+[https://cs.csub.edu/~jkuo/3680/project3/php
 
 initial access: 
 jkuo-3680
